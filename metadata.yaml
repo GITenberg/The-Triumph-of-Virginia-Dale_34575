@@ -1,0 +1,40 @@
+_repo: The-Triumph-of-Virginia-Dale_34575
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Goss, John
+    birthdate: 1886
+    deathdate: 1963
+    gutenberg_agent_id: '7136'
+    url: http://www.gutenberg.org/2009/agents/7136
+  - agent_name: Coffin, Haskell
+    aliases:
+    - Coffin, William Haskell
+    - Coffin, W. Haskell (William Haskell)
+    birthdate: 1878
+    deathdate: 1941
+    gutenberg_agent_id: '37093'
+    url: http://www.gutenberg.org/2009/agents/37093
+covers:
+- cover_type: archival
+  image_path: 34575-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Francis, John
+    birthdate: 1875
+    gutenberg_agent_id: '37092'
+    url: http://www.gutenberg.org/2009/agents/37092
+description: ''
+gutenberg_issued: '2010-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34575'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: The Triumph of Virginia Dale
+url: http://www.gutenberg.org/ebooks/34575
